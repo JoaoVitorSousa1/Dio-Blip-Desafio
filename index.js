@@ -1,1 +1,1 @@
-console.log("Olá mundo bem vindos ao desafio")
+console.log("Oi")
